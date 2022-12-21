@@ -1,0 +1,15 @@
+C:\FilesGB\Sem9\Seminar9\68\bin\Debug\net6.0\68.exe
+C:\FilesGB\Sem9\Seminar9\68\bin\Debug\net6.0\68.deps.json
+C:\FilesGB\Sem9\Seminar9\68\bin\Debug\net6.0\68.runtimeconfig.json
+C:\FilesGB\Sem9\Seminar9\68\bin\Debug\net6.0\68.dll
+C:\FilesGB\Sem9\Seminar9\68\bin\Debug\net6.0\68.pdb
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.csproj.AssemblyReference.cache
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.AssemblyInfoInputs.cache
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.AssemblyInfo.cs
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.csproj.CoreCompileInputs.cache
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.dll
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\refint\68.dll
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.pdb
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\68.genruntimeconfig.cache
+C:\FilesGB\Sem9\Seminar9\68\obj\Debug\net6.0\ref\68.dll
